@@ -1,0 +1,2 @@
+# Lacuna-Malaria-Detection
+ 
