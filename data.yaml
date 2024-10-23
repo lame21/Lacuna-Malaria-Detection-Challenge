@@ -1,0 +1,7 @@
+names:
+- Trophozoite
+- WBC
+nc: 2
+test: /datasets\dataset\images\test
+train: /datasets\dataset\images\train
+val: /datasets\dataset\images\val
